@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @Ritwik-Sinha1
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Development
-  
-  ### Languages
-
-![java](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## 🔗 Links
 
